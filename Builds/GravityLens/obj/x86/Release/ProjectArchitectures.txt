@@ -1,0 +1,4 @@
+D:\Syncophantic\Coding\Unity\GravityLens\Builds\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+D:\Syncophantic\Coding\Unity\GravityLens\Builds\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+D:\Syncophantic\Coding\Unity\GravityLens\Builds\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+D:\Syncophantic\Coding\Unity\GravityLens\Builds\GravityLens\GravityLens.csproj;x86

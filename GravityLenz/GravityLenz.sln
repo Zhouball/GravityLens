@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GravityLenz", "Assembly-CSharp.csproj", "{0174A607-0D0D-36BF-B9DD-AAA29F42EDAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GravityLenz", "Assembly-CSharp-Editor.csproj", "{60F5D586-B97B-FD98-6CBB-B888966C3A24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0174A607-0D0D-36BF-B9DD-AAA29F42EDAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0174A607-0D0D-36BF-B9DD-AAA29F42EDAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0174A607-0D0D-36BF-B9DD-AAA29F42EDAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0174A607-0D0D-36BF-B9DD-AAA29F42EDAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60F5D586-B97B-FD98-6CBB-B888966C3A24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60F5D586-B97B-FD98-6CBB-B888966C3A24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60F5D586-B97B-FD98-6CBB-B888966C3A24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60F5D586-B97B-FD98-6CBB-B888966C3A24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
